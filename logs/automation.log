@@ -1,0 +1,51 @@
+22:13:48.297 [main] INFO  bookShelves.BookShelveS - Close the pop-up
+22:13:48.926 [main] INFO  bookShelves.BookShelveS - Clicks on Exclude out of stock
+22:13:52.786 [main] INFO  bookShelves.BookShelveS - Clicks on Living page
+22:13:53.534 [main] INFO  bookShelves.BookShelveS - Moves on to Seating and chairs
+22:14:03.687 [main] INFO  bookShelves.BookShelveS - Move on to the giftcards present in the main page and clicks on it
+22:14:08.793 [main] INFO  bookShelves.BookShelveS - Scroll down to the Fill the gift cards
+22:14:09.071 [main] INFO  bookShelves.BookShelveS - Moves on to the Anniversary giftcard and clicks on it 
+22:14:09.421 [main] INFO  bookShelves.BookShelveS - Select the Amount value of gift
+23:04:20.324 [main] INFO  bookShelves.BookShelveS - Bookshelves is opened
+23:04:24.818 [main] INFO  bookShelves.BookShelveS - Close the pop-up
+23:04:25.368 [main] INFO  bookShelves.BookShelveS - Moves over to opencategory and clicks on bookshelves
+23:04:25.983 [main] INFO  bookShelves.BookShelveS - Clicks on Exclude out of stock
+23:04:28.158 [main] INFO  bookShelves.BookShelveS - Moves on to recommnede filter and clicks on price from high to low 
+23:04:43.358 [main] INFO  bookShelves.BookShelveS - Collects the first three products names  after giving all filters
+23:04:44.245 [main] INFO  bookShelves.BookShelveS - Collects the first three products prices  after giving all filters
+23:04:44.400 [main] INFO  bookShelves.BookShelveS - Clicks on Living page
+23:04:44.910 [main] INFO  bookShelves.BookShelveS - Moves on to Seating and chairs
+23:04:47.391 [main] INFO  bookShelves.BookShelveS - Collect the items under seating and chairs
+23:04:49.965 [main] INFO  bookShelves.BookShelveS - Move on to the giftcards present in the main page and clicks on it
+23:04:55.057 [main] INFO  bookShelves.BookShelveS - Scroll down to the Fill the gift cards
+23:04:55.433 [main] INFO  bookShelves.BookShelveS - Moves on to the Anniversary giftcard and clicks on it 
+23:04:55.683 [main] INFO  bookShelves.BookShelveS - Select the Amount value of gift
+23:04:56.783 [main] INFO  bookShelves.BookShelveS - Selects the Month and date 
+23:05:02.849 [main] INFO  bookShelves.BookShelveS - Enters all the details of (Who is the lucky person) with invalid mail address 
+23:05:06.136 [main] INFO  bookShelves.BookShelveS - Clicks on confirm and capture the screenshot of Error message from mail address box
+23:05:17.326 [main] INFO  bookShelves.BookShelveS - Now agains fills all the details of (who is lucky person) with all valid details
+23:06:01.278 [main] INFO  bookShelves.BookShelveS - Bookshelves is opened
+23:06:06.667 [main] INFO  bookShelves.BookShelveS - Close the pop-up
+23:06:07.351 [main] INFO  bookShelves.BookShelveS - Moves over to opencategory and clicks on bookshelves
+23:06:08.176 [main] INFO  bookShelves.BookShelveS - Clicks on Exclude out of stock
+23:06:10.375 [main] INFO  bookShelves.BookShelveS - Moves on to recommnede filter and clicks on price from high to low 
+23:06:15.784 [main] INFO  bookShelves.BookShelveS - Collects the first three products names  after giving all filters
+23:06:17.348 [main] INFO  bookShelves.BookShelveS - Collects the first three products prices  after giving all filters
+23:06:17.633 [main] INFO  bookShelves.BookShelveS - Clicks on Living page
+23:06:18.360 [main] INFO  bookShelves.BookShelveS - Moves on to Seating and chairs
+23:06:21.214 [main] INFO  bookShelves.BookShelveS - Collect the items under seating and chairs
+23:06:24.809 [main] INFO  bookShelves.BookShelveS - Move on to the giftcards present in the main page and clicks on it
+23:06:29.929 [main] INFO  bookShelves.BookShelveS - Scroll down to the Fill the gift cards
+23:06:30.360 [main] INFO  bookShelves.BookShelveS - Moves on to the Anniversary giftcard and clicks on it 
+23:06:30.734 [main] INFO  bookShelves.BookShelveS - Select the Amount value of gift
+23:10:17.612 [main] INFO  bookShelves.BookShelveS - Bookshelves is opened
+23:10:49.091 [main] INFO  bookShelves.BookShelveS - Close the pop-up
+23:10:49.662 [main] INFO  bookShelves.BookShelveS - Clicks on Exclude out of stock
+23:10:51.891 [main] INFO  bookShelves.BookShelveS - Clicks on Living page
+23:10:52.497 [main] INFO  bookShelves.BookShelveS - Moves on to Seating and chairs
+23:10:56.191 [main] INFO  bookShelves.BookShelveS - Move on to the giftcards present in the main page and clicks on it
+23:11:01.298 [main] INFO  bookShelves.BookShelveS - Scroll down to the Fill the gift cards
+23:11:01.494 [main] INFO  bookShelves.BookShelveS - Moves on to the Anniversary giftcard and clicks on it 
+23:11:01.792 [main] INFO  bookShelves.BookShelveS - Select the Amount value of gift
+23:11:04.233 [main] INFO  bookShelves.BookShelveS - Clicks on confirm and capture the screenshot of Error message from mail address box
+23:11:06.290 [main] INFO  bookShelves.BookShelveS - Now agains fills all the details of (who is lucky person) with all valid details
